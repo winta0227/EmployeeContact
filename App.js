@@ -27,6 +27,8 @@ const AppNavigator = () => {
    )
 }
 
-// test  
+// test
+
+// test 2
 
 export default App
